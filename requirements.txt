@@ -1,0 +1,3 @@
+Scrapy
+scrapy_crawlera
+python-dateutil
